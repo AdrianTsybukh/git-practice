@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 double feature(double x, double y) {
-    return x*y + 3;
+    printf("log\n");
+    return x*y + 3; //development
 }
 
 int main(void) {
