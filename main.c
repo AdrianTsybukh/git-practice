@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("privet kotakbas\n");
+    printf("privet kotakbas\n"); // welcome message
+
+    return 0;
 }
